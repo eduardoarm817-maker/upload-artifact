@@ -1,0 +1,16 @@
+)]}'
+{
+  "regions": [
+    {
+      "start": 1,
+      "count": 42,
+      "path": "courgette/third_party/paged_array_unittest.cc",
+      "commit": "b6732ba797c8b6a8b2a4748fe61d86b6578e9468",
+      "author": {
+        "name": "sra@chromium.org",
+        "email": "sra@chromium.org@0039d316-1c4b-4281-b951-d872f2087c98",
+        "time": "2010-05-29 00:47:48"
+      }
+    }
+  ]
+}
